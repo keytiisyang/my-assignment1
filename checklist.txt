@@ -1,0 +1,5 @@
+Python version: 3.11.8
+Virtual environment: .venv activated
+Django version: 5.2.6
+Runserver working: python manage.py runserver runs successfully and Django welcome page is visible at http://127.0.0.1:8000/
+Git remote: remote origin set to GitHub repository URL
